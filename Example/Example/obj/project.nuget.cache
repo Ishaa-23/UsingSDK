@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "OYuDoM0hTmrpeE+8eFvchA+5RyQtpGc1LVI2leYLBbltC9yT58mdZPka1xyQGGQbtChOCUXDEhmwfKintYcx9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\inabdi00\\source\\repos\\Example\\Example\\Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inabdi00\\.nuget\\packages\\ishaa.employeestudent\\1.0.0\\ishaa.employeestudent.1.0.0.nupkg.sha512",
+    "C:\\Users\\inabdi00\\.nuget\\packages\\jsonsubtypes\\2.0.1\\jsonsubtypes.2.0.1.nupkg.sha512",
+    "C:\\Users\\inabdi00\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\inabdi00\\.nuget\\packages\\polly\\8.1.0\\polly.8.1.0.nupkg.sha512",
+    "C:\\Users\\inabdi00\\.nuget\\packages\\polly.core\\8.1.0\\polly.core.8.1.0.nupkg.sha512",
+    "C:\\Users\\inabdi00\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\inabdi00\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\inabdi00\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
+    "C:\\Users\\inabdi00\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\inabdi00\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\inabdi00\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\inabdi00\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
